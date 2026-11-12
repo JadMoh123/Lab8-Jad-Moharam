@@ -1,0 +1,11 @@
+Lab 8 - Docker, containers and images
+Name: Jad Moharam
+ID: 202400899
+AUB username: jmm47
+
+GitHub repository (public):
+https://github.com/JadMoh123/Lab8-Jad-Moharam
+
+Docker images:
+- jmm47/lab8-jad_moharam:0.0.1.RELEASE - Lab 5 Postman and APIs, port 5000
+- jmm47/lab8-jad_moharam:0.0.2.RELEASE - get_users API, port 3000
